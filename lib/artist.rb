@@ -3,7 +3,6 @@ class Artist
   
   def initislize(name)
     @name = name
-    @title = title
   end
   
 end
